@@ -1,0 +1,38 @@
+{
+    "name": "CasperExample",
+    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "demo": "https://demo.ghost.io",
+    "version": "1.0.0",
+    "engines": {
+        "ghost": ">=0.9.0 <1.0.0"
+    },
+    "license": "MIT",
+    "screenshots": {
+        "desktop": "assets/screenshot-desktop.jpg",
+        "mobile": "assets/screenshot-mobile.jpg"
+    },
+    "author": {
+        "name": "Sean O Neill",
+        "email": "seanyoughal92@gmail.com",
+        "url": "https://seanoneill.me"
+    },
+    "gpm": {
+        "type": "theme",
+        "categories": [
+            "Minimal",
+            "Personal Blogs",
+            "Search Bar"
+        ]
+    },
+    "keywords": [
+        "ghost",
+        "theme",
+        "searchbar"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seancork/searchbarexample.git"
+    },
+    "bugs": "https://github.com/seancork/searchbarexample/issues",
+    "contributors": "https://github.com/seancork/searchbarexample/graphs/contributors"
+}
