@@ -1,10 +1,6 @@
-# Casper
+# CasperExample - Sean O Neill 2017
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+This is the default Ghost theme with a searchbar added in as a exmaple.
 
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
-
-## Copyright & License
-
-Copyright (c) 2013-2017 Ghost Foundation - Released under the [MIT license](LICENSE).
+Blog Post:  http://seanoneill.me/adding-search-to-your-ghost-blog/
 
